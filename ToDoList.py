@@ -170,7 +170,7 @@ class ToDoList:
             self.action.clear()
             for line in data:
                 self.action.append(line.strip())
-            print(self.action)
+            #print(self.action)
             file.close()
 
         def undo_clear_all_but_selected():
