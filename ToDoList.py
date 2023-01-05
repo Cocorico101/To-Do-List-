@@ -197,6 +197,5 @@ def main():
     #Keep making it appearing
     root.mainloop()
     #Run main
-
 if __name__ == "__main__":
         main()
